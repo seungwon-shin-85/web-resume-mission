@@ -1,0 +1,18 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Node (Live Server 등 사용 시)
+node_modules/
+package-lock.json
+
+# Logs
+*.log
